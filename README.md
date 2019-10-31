@@ -1,5 +1,6 @@
-# Verkefni 8 í Vefforritun 1
+# Verkefni 7 í Vefforritun 1
 Kári Steinn aðalsteinsson
+
 Netfang: ksa13@hi.is
 
 ---
