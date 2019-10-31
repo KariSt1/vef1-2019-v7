@@ -1,3 +1,8 @@
+# Verkefni 8 í Vefforritun 1
+Kári Steinn aðalsteinsson
+Netfang: ksa13@hi.is
+
+---
 # Verkefni 7
 
 Útfæra skal leik sem snýst um að giska á tölu sem er á milli 0 og 100. Forrit velur tölu á milli 0 og 100 af handahófi. Birta skal glugga sem biður notanda að slá inn tölu á milli 0 og 100.
